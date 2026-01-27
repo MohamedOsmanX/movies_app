@@ -1,4 +1,4 @@
 class AppConstants {
   static const baseUrl = 'https://api.themoviedb.org/3';
-  static const apiKey = 'yourIp';
+  static const apiKey = 'yourApi';
 }
